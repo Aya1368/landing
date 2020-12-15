@@ -39,12 +39,13 @@ a {
     width: 900px;
     margin: auto;
 }
-button{
+a.btn-primary{
   display: inline-block;
     background-color: #1EDD88;
     padding: 16px 36px;
     border-radius: 50px;
     color: white;
+    margin-top:10px;
 }
 
 .container h2{
